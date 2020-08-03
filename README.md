@@ -1,8 +1,8 @@
-## Hey 👋
+## Hey 👋🏻
 
 Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
-### Languages
+### Knowledge
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white)

@@ -2,8 +2,6 @@
 
 Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
----
-
 ### Languages
 
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -29,8 +27,6 @@ Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech 
 ![Windows10](https://img.shields.io/badge/Windows%2010-000000?style=flat-square&logo=Windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=flat-square&logo=Debian&logoColor=white)
-
----
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xWryth&show_icons=true&hide_border=true" />
 

@@ -4,13 +4,19 @@ Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech 
 
 ### Knowledge
 
+### Web
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+
+### Programming
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-189F20?style=flat-square&logo=C-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E50000?style=flat-square&logo=Java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+
+### Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)

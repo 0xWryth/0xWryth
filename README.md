@@ -2,7 +2,7 @@
 
 Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
 
-### Knowledge
+## Knowledge
 
 ### Web
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)

@@ -34,7 +34,7 @@ Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech 
 ![Android](https://img.shields.io/badge/Android-32DE84?style=flat-square&logo=Android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70651?style=flat-square&logo=Debian&logoColor=white)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xWryth&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xWryth&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=348FF8&text_color=C9D1D9&icon_color=348FF8" />
 
 <!--
 **0xWryth/0xWryth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

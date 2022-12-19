@@ -1,6 +1,6 @@
 ## Hey 👋🏻
 
-Hi there, I'm Lucas Briatte Vatel, an engineer student learning IT at [Polytech Paris Saclay](https://www.polytech.universite-paris-saclay.fr/)
+Hi there, I'm Lucas Briatte Vatel, an IT engineer making Smart TV apps for worldwide companies.
 
 ## Knowledge
 
